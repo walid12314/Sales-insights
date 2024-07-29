@@ -77,6 +77,8 @@ FROM
 WHERE
     year = '2020' AND month_name = 'January'
         AND currency = 'INR ;
+
+
 9. Show total revenue in year 2020 in Chennai
 
 SELECT 
